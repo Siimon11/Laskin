@@ -1,0 +1,14 @@
+w/s ylös-alas
+enter eteenpäin
+b laskutoimitukseen
+n pois
+m vastaus
+123456789
+ lisää +-/
+ r new calculation
+ q quit
+ näppäimistö  ei toimi
+ !
+ ^
+ *
+ /
